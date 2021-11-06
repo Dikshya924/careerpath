@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/Adminlogout.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/updatePost.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/post-detail.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/AdminLogin.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/ViewCategories.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/viewIntern.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/entities/Message.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/dao/Interndao.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/dao/admindao.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/RegisterIntern.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/Slider.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/admin.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/ViewPost.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/adminNav.jsp</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/dao/Postdao.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/InternLogins.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/src/java/com/career/path/servlets/DeletePost.java</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/Career%20path/web/About.jsp</file>
+        </group>
+    </open-files>
+</project-private>
